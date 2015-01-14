@@ -232,7 +232,7 @@
    /* optionally disable stick combinations to arm/disarm the motors.
      * In most cases one of the two options to arm/disarm via TX stick is sufficient */
     #define ALLOW_ARM_DISARM_VIA_TX_YAW
-    //#define ALLOW_ARM_DISARM_VIA_TX_ROLL
+    #define ALLOW_ARM_DISARM_VIA_TX_ROLL
 
     /********************************    SERVOS      *********************************/
     /* info on which servos connect where and how to setup can be found here
